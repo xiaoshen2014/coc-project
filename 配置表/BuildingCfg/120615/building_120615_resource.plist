@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Id</key>
+	<integer>120615</integer>
+	<key>Info</key>
+	<string>null</string>
+	<key>MaxLevel</key>
+	<integer>0</integer>
+	<key>Name</key>
+	<string>公会火凤凰石像</string>
+	<key>SubType</key>
+	<integer>20</integer>
+	<key>Xlen</key>
+	<integer>3</integer>
+	<key>Ylen</key>
+	<integer>3</integer>
+	<key>MinAttRange</key>
+	<integer>0</integer>
+	<key>MaxAttRange</key>
+	<integer>0</integer>
+	<key>DamageType</key>
+	<integer>0</integer>
+	<key>Targets</key>
+	<integer>0</integer>
+	<key>DamageArea</key>
+	<integer>0</integer>
+	<key>AttackInterval</key>
+	<integer>0</integer>
+	<key>ActTargetType</key>
+	<integer>0</integer>
+	<key>WarningRange</key>
+	<integer>0</integer>
+	<key>NeedHut</key>
+	<integer>0</integer>
+	<key>Level</key>
+	<dict>
+	</dict>
+</dict>
+</plist>
